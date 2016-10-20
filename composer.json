@@ -1,6 +1,7 @@
 {
     "name": "runcommand/media-sizes",
     "description": "List media sizes registered with WordPress.",
+    "type": "wp-cli-package",
     "homepage": "https://runcommand.io/wp/media-sizes/",
     "license": "MIT",
     "authors": [],
